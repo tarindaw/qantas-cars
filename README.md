@@ -11,10 +11,10 @@ App consists of :
 ## Get Started
 
 - Run `npm install` to install all the required packages.
-- Run `npm server` to start the server.
-- Run `npm run start` to start the app.
+- Run `npm run server` to start the server.
+- Run `npm start` to start the app.
 
 ## Test
 
-- Run `npm server` to start the server.
+- Run `npm run server` to start the server.
 - Run `npm test` to start the unit tests.
